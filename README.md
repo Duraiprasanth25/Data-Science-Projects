@@ -1,2 +1,2 @@
-# Data Science Internship
+# Data Science Projects
   This repo contains the data science projects that I have worked on.
