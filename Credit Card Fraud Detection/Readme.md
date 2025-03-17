@@ -50,7 +50,7 @@ This project focuses on detecting fraudulent credit card transactions using mach
    ```
 
 ## 📜 License
-This project is open-source and available under the **MIT License**.
+This project is open-source and available under the **Apache 2.0 License**.
 
 ## 🤝 Contributing
 Feel free to submit issues or pull requests to improve the project!
